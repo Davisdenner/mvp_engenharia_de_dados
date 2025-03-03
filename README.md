@@ -1,1 +1,1 @@
-mvp engenharia de dados
+A pipeline de dados construída para esse projeto foi inspirada no arquivo [Education & Career Success](https://www.kaggle.com/datasets/adilshamim8/education-and-career-success) extraído do Kaggle. O arquivo que inicialmente continha apenas uma tabela foi fragmentado em três tabelas distintas para uma melhor análise e compreensão dos dados. Quanto às transformações e formatações, esses permanecem iguais aos dados originais.
