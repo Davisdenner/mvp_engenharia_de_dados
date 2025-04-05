@@ -1,4 +1,7 @@
-<img src="https://www.econ.puc-rio.br/uploads/images/images.png" width="1000" height="180"/>
+<p align="center">
+  <img src="https://reari.uff.br/wp-content/uploads/sites/171/2023/09/pucrio.png" width="100" height="100"/>
+</p>
+
 
 
 
